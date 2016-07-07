@@ -3,7 +3,7 @@
 Role Name
 =========
 
-TBD: An Ansible role to TBD.
+An Ansible role to TBD.
 
 The role is available on Ansible Galaxy: [https://galaxy.ansible.com/wahidsadik/tbd](https://galaxy.ansible.com/wahidsadik/tbd).
 
