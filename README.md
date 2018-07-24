@@ -20,3 +20,7 @@ Example usages of this: [https://github.com/wahidsadik/git-based-deploy](https:/
 I understand that the more correct way to create a role is something like this: `$ ansible-galaxy init <new-role>`, and it will always get the latest template recommended by Ansible. My template may fall behind if I don't keep updated.
 
 For now, I am going to accept this shortcoming.
+
+# TODO
+
+Add a `makefile` to automate the manual steps mentioned above.
